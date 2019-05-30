@@ -9,4 +9,8 @@ public class gitTest {
     public void test(){
         System.out.println("test-git");
     }
+
+    public void test2(){
+        System.out.println("test-git");
+    }
 }
